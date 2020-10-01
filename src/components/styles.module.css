@@ -1,0 +1,14 @@
+.navBar {
+  display: flex;
+  list-style: none;
+}
+.navItem {
+  margin-left: 30px;
+  text-decoration: none;
+}
+.moviesList {
+  list-style: none;
+}
+.moviesItem {
+  text-decoration: none;
+}
